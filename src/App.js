@@ -1,10 +1,8 @@
-import './App.css';
+import  Body  from './components/Body';
 
 function App() {
   return (
-    <div className='text-3xl rounded-lg border border-gray-500 '>
-    <p className='text-green-800'>Adarsh Mishra </p>
-    </div>
+    <Body/>
   );
 }
 
