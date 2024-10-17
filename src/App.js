@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div>
-      Hello adarsh
+    <div className='text-3xl rounded-lg border border-gray-500 '>
+    <p className='text-green-800'>Adarsh Mishra </p>
     </div>
   );
 }
