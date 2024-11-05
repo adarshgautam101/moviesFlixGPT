@@ -1,4 +1,4 @@
-# netflix GPT
+# moviesFlix GPT
 - Config React App first 
 - Configured TailwindCSS
 
